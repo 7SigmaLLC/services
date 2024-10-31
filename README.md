@@ -1,9 +1,8 @@
-<div align="center" style="width: 100%; padding: 0 0 10px 0;">
-    <img src="./logo.png" alt="Logo" width="150px"/>
-<!--     <hr/> -->
+<div align="center">
+    <img src="./logo.png" alt="Logo" width="75px"/>
+    <hr style="width: 50%;"/>
+    <h1>Full Service Development and Managed Cloud Services</h1>
 </div>
-
-# 7Sigma Full Service Development and Managed Cloud Services
 
 ## Scope and Build (Project-Based, Full-Service)
 
