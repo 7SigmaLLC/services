@@ -1,4 +1,4 @@
-# 7Sigma Cloud Application Services
+# 7Sigma Full Service Development and Managed Cloud Services
 
 ## Scope and Build (Project-Based, Full-Service)
 
