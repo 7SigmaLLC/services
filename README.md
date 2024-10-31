@@ -16,20 +16,24 @@
 **2. Comprehensive Scoping (For 6+ Month Projects)**
 - **Includes**: Detailed requirements analysis, architecture planning, integration mapping, resource and cost planning, risk assessment, and a detailed quote.
 
-### Core Build Package (Current Standard)
+### Core Build Package
 
 7Sigma’s **Core Build Package** takes your idea through complete development and deployment:
 - Product design and product management
 - Full application development
-- Initial infrastructure setup, including Google Cloud and DNS
+- Initial infrastructure setup, including Google Cloud, Database, Containers and DNS
 - Development environment and testing deployment
 - Initial documentation and knowledge transfer
 
 #### Our Build Package Includes:
 - Architecture and project management
-- Front-end development, backend development, DevOps scripting, and test deployment
+- UI/UX design and development
 - Database architecture and design
-- Delivery to the test environment
+- Backend development - APIs, SDKs, integrations, logic and algorithms
+- Authentication and Security
+- DevOps and deployment scripting
+- Delivery to the test environment with Runbook and associated documentation
+- Automated Test Suite
 
 ---
 
@@ -43,7 +47,6 @@
 - **Minor Bug Fixes**: UI adjustments and non-critical updates.
   - **Cost**: Time & materials or small retainer.
 - **Major Bug Fixes**: Critical functionality issues, security vulnerabilities, performance issues, infrastructure challenges.
-  - **Cost**: Time & materials.
 
 ### 3. Development Services
 - **Feature Development**: New functionality, integrations, and UI/UX improvements.
@@ -52,25 +55,17 @@
 
 ### 4. Support Services
 - **Support**: Technical consultation, user support, documentation updates, training, and regular status meetings.
-  - **Cost**: Monthly retainer.
 
----
+### 5. IT and Security Services
+- **Security**: Regular security audits, penetration testing, and security updates.
+- **IT Services**: Planning and coordination with your internal IT teams, infrastructure optimization, scaling, and cost management.
 
-## Common Service Combinations
+### 6. SLAs and Response Times
+- **Response Times**: Vary by service tier.
+- **After-Hours Support**: Available for production environments.
+- **Emergency Response**: Established for critical issues.
 
-- **Basic Maintenance**: Development environment management, minor bug fixes, and monthly support – ideal for development phases.
-- **Production Ready**: Full dev and production environment management, all-level bug fixes, and basic support – best for stable production apps.
-- **Full Service**: Complete environment management, bug fixes, feature development, and full support – optimal for actively developed applications.
-
----
-
-## Engagement Process
-1. Choose desired service components.
-2. Select the appropriate scoping level.
-3. Define Service Level Agreements (SLAs) and response times.
-4. Set communication protocols.
-5. Establish monitoring and reporting practices.
-6. Begin phased implementation.
+*** Production and Test Environments are treated as separate line items.
 
 ---
 
@@ -82,11 +77,14 @@
 
 ---
 
-## Next Steps
-1. Review your current needs against service options.
-2. Identify critical service areas.
-3. Select the appropriate scoping level.
-4. Schedule a detailed discussion with the 7Sigma team.
-5. Develop a tailored service package that fits your needs.
+## Engagement Process and Next Steps
+- Review your current needs to determine the most beneficial service areas.
+- Select the desired services and the appropriate scoping level.
+- Define Service Level Agreements (SLAs) and response times, if applicable.
+- Set up communication protocols.
+- Establish monitoring, reporting, and planning/coordination practices.
+- Schedule a detailed discussion with the 7Sigma team to finalize the approach.
+- Begin phased implementation of the tailored service package.
 
----
+
+
