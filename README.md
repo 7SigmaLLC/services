@@ -1,5 +1,5 @@
-<div align="right" style="width: 100%; padding: 0 0 10px 0;">
-    <img src="./logo.png" alt="Logo" width="125px"/>
+<div align="center" style="width: 100%; padding: 0 0 10px 0;">
+    <img src="./logo.png" alt="Logo" width="150px"/>
 <!--     <hr/> -->
 </div>
 
