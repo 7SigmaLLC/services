@@ -4,6 +4,7 @@
     <h1>Full Service Development and Managed Cloud Services</h1>
 </div>
 
+---
 ## Scope and Build (Project-Based, Full-Service)
 
 7Sigma offers a comprehensive **white-glove service** that guides clients from product concept to production. Our services cover every phase of product and engineering management, making us a unique partner for businesses seeking end-to-end support. 
