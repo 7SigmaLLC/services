@@ -1,6 +1,6 @@
-<div align="center">
-    <img src="./logo.png" alt="Logo" width="75px"/>
-    <hr style="width: 50%;"/>
+<div align="center" style="mb-1">
+    <img src="./logo.png" alt="Logo" width="150px"/>
+<!--     <hr style="width: 50%;"/> -->
     <h1>Full Service Development and Managed Cloud Services</h1>
 </div>
 
