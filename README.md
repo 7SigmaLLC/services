@@ -86,5 +86,10 @@
 - Schedule a detailed discussion with the 7Sigma team to finalize the approach.
 - Begin phased implementation of the tailored service package.
 
+---
 
+## About Us
 
+At 7Sigma LLC, we specialize in full-service cloud application development and management, tailored to meet the complex needs of modern enterprises. Founded by a seasoned architect, developer, chief architect, engineering management leader, and former CTO, 7Sigma brings unparalleled technical and strategic insight to every engagement. Our white-glove approach to product and engineering management guides clients from concept through to production, ensuring each application is designed, built, and managed to drive growth, efficiency, and innovation.
+
+Our team operates from multiple locations, including the United States, Puerto Rico, the Dominican Republic, and Uganda, bringing a global perspective and expertise to each project. With skills spanning cloud infrastructure, application architecture, DevOps, and scalable deployment, we focus on building robust, secure, and optimized solutions. Committed to quality, transparency, and forward-thinking technology, 7Sigma empowers businesses to turn ideas into impactful digital products.
