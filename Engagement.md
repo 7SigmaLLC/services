@@ -2,16 +2,12 @@
     <img src="./assets/logo.png" alt="Logo" width="150px"/>
 </div>
 
+---
+
 # Engagement Process
 
-**Define Service Needs**: Identify necessary environment support and select relevant features.
+Working with 7Sigma starts with defining your project scope, identifying the specific features and environment support needed to bring your vision to life. We can host dedicated development environments where you can interact with and review features as they’re built. Our team provides weekly updates and regular progress reports, advising you on next steps and important considerations to keep your project moving smoothly.
 
-**Establish SLAs**: Specify response times for ticket resolutions and production incidents.
+For clients engaging 7Sigma for ongoing cloud operations support, our approach differs to ensure reliable, scalable service management for the solutions we’ve built. This includes tailored monitoring, incident response, and hands-on management of the environments we develop.
 
-**Formalize Protocols**: Define escalation paths and client communication practices.
-
-**Monitor & Report Setup**: Implement ongoing monitoring and reporting for transparency.
-
-**Kick-Off Meeting**: Engage with the 7Sigma team to confirm the tailored service package.
-
-For information on our build services, see [**7Sigma Build Services Overview**](./BlueSky.md), and for ongoing feature and bug-fix support, refer to [**Ongoing Maintenance & Development Services**](./OngoingDev.md).
+For a detailed overview of our build services, see [**7Sigma Build Services Overview**](./BlueSky.md). For information on ongoing support and operations for completed projects, refer to [**Ongoing Maintenance & Development Services**](./OngoingDev.md).
