@@ -21,7 +21,7 @@
 7Sigma’s **Core Build Package** takes your idea through complete development and deployment:
 - Product design and product management
 - Full application development
-- Initial infrastructure setup, including Google Cloud, Database, Containers and DNS
+- Initial infrastructure setup, including Google Cloud (or AWS or Azure), Database, Containers and DNS
 - Development environment and testing deployment
 - Initial documentation and knowledge transfer
 
