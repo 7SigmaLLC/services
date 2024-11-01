@@ -54,11 +54,11 @@ For continuous product enhancement, review our [**Ongoing Maintenance & Developm
 
 Explore each area of our services in more depth:
 
-- [About Us](./about.md)
+- [About Us](./About.md)
 - [Blue Sky Build Services Overview](./BlueSky.md)
 - [Cloud Operations Services Overview](./CloudOps.md)
 - [Ongoing Maintenance & Development Services](./OngoingDev.md)
-- [Engagement Process](./engagement.md)
+- [Engagement Process](./Engagement.md)
 
 For companies looking for a tech partner who understands the unique challenges of enterprise-grade software, 7Sigma LLC is here to support you every step of the way—from planning and building to managing and enhancing.
 
