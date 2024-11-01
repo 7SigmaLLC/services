@@ -3,6 +3,7 @@
     <h1>Full-Service Cloud & Development Management</h1>
 </div>
 
+--
 ## Overview
 
 7Sigma LLC provides end-to-end cloud application development, meeting businesses where they are to deliver secure, scalable solutions. With decades of experience, we support clients through every stage of their product journey—from concept and development to ongoing support and management. For companies without in-house tech teams, 7Sigma turns ideas into reliable, market-ready products.
