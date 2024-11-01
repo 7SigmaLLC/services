@@ -4,7 +4,7 @@
 </div>
 
 ---
-## Scope and Build (Project-Based, Full-Service)
+## Scope and Build
 
 7Sigma offers a comprehensive **white-glove service** that guides clients from product concept to production. Our services cover every phase of product and engineering management, making us a unique partner for businesses seeking end-to-end support. 
 
@@ -37,7 +37,7 @@
 
 ---
 
-## Ongoing Service Options (Retainer/Monthly-Based)
+## Ongoing Service Options
 
 ### 1. Environment Management
 - **Development Environment**: Regular updates, security patches, database and test data management, and CI/CD pipeline maintenance.
