@@ -1,97 +1,64 @@
-<div align="center" style="mb-1">
+<div align="center" style="margin-bottom:1rem;">
     <img src="./logo.png" alt="Logo" width="150px"/>
-    <h1>Full Service Development and Managed Cloud Services</h1>
+    <h1>Full-Service Cloud & Development Management</h1>
 </div>
 
----
-## Scope and Build
+## Overview
 
-7Sigma offers a comprehensive **white-glove service** that guides clients from product concept to production. Our services cover every phase of product and engineering management, making us a unique partner for businesses seeking end-to-end support. 
-
-### Project Scoping Options
-
-**1. Light Scoping (For 3-6 Month Projects)**
-- **Includes**: Basic requirements gathering, feasibility assessment, preliminary architecture, and a soft quote.
-
-**2. Comprehensive Scoping (For 6+ Month Projects)**
-- **Includes**: Detailed requirements analysis, architecture planning, integration mapping, resource and cost planning, risk assessment, and a detailed quote.
-
-### Core Build Package
-
-7Sigma’s **Core Build Package** takes your idea through complete development and deployment:
-- Product design and product management
-- Full application development
-- Initial infrastructure setup, including Google Cloud (or AWS or Azure), Database, Containers and DNS
-- Development environment and testing deployment
-- Initial documentation and knowledge transfer
-
-#### Our Build Package Includes:
-- Architecture and project management
-- UI/UX design and development
-- Database architecture and design
-- Backend development - APIs, SDKs, integrations, logic and algorithms
-- Authentication and Security
-- DevOps and deployment scripting
-- Delivery to the test environment with Runbook and associated documentation
-- Automated Test Suite
+7Sigma LLC provides end-to-end cloud application development, meeting businesses where they are to deliver secure, scalable solutions. With decades of experience, we support clients through every stage of their product journey—from concept and development to ongoing support and management. For companies without in-house tech teams, 7Sigma turns ideas into reliable, market-ready products.
 
 ---
 
-## Ongoing Service Options
+## Core Services
 
-### 1. Environment Management
-- **Development Environment**: Regular updates, security patches, database and test data management, and CI/CD pipeline maintenance.
-- **Production Environment**: Infrastructure management, database optimization, log and audit management, scaling, backup, and security.
+### **1. Blue Sky Build: From Concept to Launch**
+Our **Blue Sky Build** services take your idea from inception to a fully realized, production-ready product. This process includes:
 
-### 2. Issue Resolution
-- **Minor Bug Fixes**: UI adjustments and non-critical updates.
-  - **Cost**: Time & materials or small retainer.
-- **Major Bug Fixes**: Critical functionality issues, security vulnerabilities, performance issues, infrastructure challenges.
+- **Project Scoping**: Light Scoping, Comprehensive Scoping, and Proof of Concept (PoC) services to tailor project plans, requirements, and resources.
+- **Core Build Package**: Full-stack development, UI/UX design, system architecture, backend development, security, and documentation.
+- **DevOps & Deployment**: Automated deployment, CI/CD pipelines, and infrastructure setup for seamless go-live.
 
-### 3. Development Services
-- **Feature Development**: New functionality, integrations, and UI/UX improvements.
-  - **Cost**: Project-based or time & materials.
-- **Development Maintenance**: Code quality management, technical debt reduction, and performance optimization.
+For more details, see our [**Blue Sky Build Services Overview**](./BlueSky.md).
 
-### 4. Support Services
-- **Support**: Technical consultation, user support, documentation updates, training, and regular status meetings.
+### **2. Cloud Operations Services: Management & Maintenance**
+Once your product is live, our **Cloud Operations Services** provide continuous management and support for production and development environments, including:
 
-### 5. IT and Security Services
-- **Security**: Regular security audits, penetration testing, and security updates.
-- **IT Services**: Planning and coordination with your internal IT teams, infrastructure optimization, scaling, and cost management.
+- **Environment Management**: Uptime, scaling, database optimization, log management, and security updates.
+- **Security & IT Services**: Regular audits, penetration testing, and cost management to keep your system secure and efficient.
+- **Service Level Agreements (SLAs)**: Customized SLAs for ticket responses, production incidents, and after-hours support.
 
-### 6. SLAs and Response Times
-- **Response Times**: Vary by service tier.
-- **After-Hours Support**: Available for production environments.
-- **Emergency Response**: Established for critical issues.
+Explore our [**Cloud Operations Services**](./CloudOps.md) for ongoing environment management.
 
-*Production and Test Environments are treated as separate line items.*
+### **3. Ongoing Maintenance & Development: Continuous Improvement**
+Our **Ongoing Maintenance & Development Services** keep your product evolving and optimized through:
 
----
+- **Bug Fixes & Issue Resolution**: From UI adjustments to major infrastructure performance updates.
+- **Feature Development & Enhancements**: Adding new features, refining UX/UI, and code optimization.
+- **Support & Consultation**: Ongoing technical guidance, documentation updates, and user training.
 
-## Service Level Considerations
-- Response times vary by service tier.
-- After-hours support is available for production environments.
-- Emergency response protocols are established for critical issues.
-- Regular service reviews and quarterly planning meetings ensure alignment.
+For continuous product enhancement, review our [**Ongoing Maintenance & Development Services**](./OngoingDev.md).
 
 ---
 
-## Engagement Process and Next Steps
-- Review your current needs to determine the most beneficial service areas.
-- Select the desired services and the appropriate scoping level.
-- Define Service Level Agreements (SLAs) and response times, if applicable.
-- Set up communication protocols.
-- Establish monitoring, reporting, and planning/coordination practices.
-- Schedule a detailed discussion with the 7Sigma team to finalize the approach.
-- Begin phased implementation of the tailored service package.
+## Why Choose 7Sigma?
+
+- **Experienced Founder & Hands-On Architect**: Led by a seasoned architect and engineer with decades in cloud and software development, 7Sigma offers direct access to the expertise that drives each project.
+- **Personalized, High-Touch Service**: Clients work directly with the lead architect, ensuring that every solution is aligned with their needs and built to last.
+- **Scalable & Secure Solutions**: We design for growth and resilience, creating systems that are secure, scalable, and ready for the demands of today and tomorrow.
+- **Flexible Engagement Options**: Whether it's a full-scale build or focused technical support, our approach adapts to fit the unique needs of businesses at any stage.
 
 ---
 
-## About Us
+## Quick Navigation
 
-At 7Sigma LLC, we specialize in full-service cloud application development and management, expertly crafted to meet the unique needs of modern enterprises. Founded by Robert Christian, a veteran technology leader with over 25 years in software architecture, development, engineering, and product leadership, 7Sigma offers clients both technical depth and strategic insight on every project.
+Explore each area of our services in more depth:
 
-Our team is globally distributed across the U.S., Puerto Rico, the Dominican Republic, and Uganda, enriching our projects with diverse perspectives and technical expertise. We provide a white-glove approach to product and engineering management, guiding clients through each stage—from initial concept to final deployment—with meticulous attention to detail.
+- [About Us](./about.md)
+- [Blue Sky Build Services Overview](./BlueSky.md)
+- [Cloud Operations Services Overview](./CloudOps.md)
+- [Ongoing Maintenance & Development Services](./OngoingDev.md)
+- [Engagement Process](./engagement.md)
 
-7Sigma delivers secure, scalable, and innovative solutions, specializing in enterprise-grade platforms and AI-driven technologies. Committed to excellence, transparency, and cutting-edge technology, we empower clients to transform visionary ideas into impactful, market-ready solutions, with the assurance of a dedicated, high-touch partnership.
+For companies looking for a tech partner who understands the unique challenges of enterprise-grade software, 7Sigma LLC is here to support you every step of the way—from planning and building to managing and enhancing.
+
+--- 
