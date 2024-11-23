@@ -1,48 +1,47 @@
-<div align="center" style="mb-1">
+<div align="center">
     <img src="./assets/logo.png" alt="Logo" width="150px"/>
 </div>
 
 ---
+
 # About Us
 
-7Sigma LLC provides comprehensive cloud application development and management tailored to the demands of modern enterprises. Founded by a technology leader with over 25 years in software architecture, development, and product leadership, 7Sigma combines technical expertise with strategic insight on every project.
+7Sigma LLC delivers enterprise-grade cloud application development and management solutions. Founded by Robert Christian, a technology leader with over 25 years of experience in software architecture and product leadership, we provide comprehensive development services with a white-glove approach to product and engineering management.
 
-Our international team brings a wealth of technical knowledge and diverse perspectives, strengthening every solution we build. With a **white-glove approach** to product and engineering management, we guide clients through each stage of development—from concept to deployment—with rigorous attention to detail.
+Our international team brings diverse expertise across architecture, APIs, cloud infrastructure, and AI-driven technologies. Operating from Puerto Rico, the US, Dominican Republic, and Uganda, we transform complex requirements into sophisticated, scalable solutions.
 
-We deliver secure, scalable, and innovative solutions, specializing in enterprise-grade platforms and AI-driven technologies. Our commitment to excellence, transparency, and advanced technology helps clients turn visionary ideas into market-ready solutions, all backed by a dedicated, high-touch partnership.
+## Leadership & Team
 
----
+- **Robert Christian** - Founder & Chief Architect  
+  25+ years of experience as CTO, Product Manager, and Engineering Leader for Fortune 500 companies and startups. Rob drives strategic, full-stack solutions tailored to each client's needs.
+
+- **Russ Palermo** - Senior Full-Stack Engineer  
+  Four decades of fintech experience, specializing in PCI-certified payment systems and enterprise architecture. His expertise ensures secure, scalable solutions.
+
+- **Tony Mbabazi** - Technical Lead  
+  Combines RF engineering expertise with modern software development skills across Python, React, TypeScript, and Google Cloud, bringing unique technical perspective to complex challenges.
 
 ## Our Services
 
-### Blue Sky Build
-Full-scale product development from concept to production readiness, including architecture, design, and deployment.
+### Development & Implementation
+- Blue Sky Build
+- Full-scale product development
+- Backend Development
+- API, SDK, and integrations
+- UI/UX Design
+- Architecture & Database Design
 
-### Cloud Operations Services
-Ongoing management and support for live environments, focusing on uptime, security, and infrastructure optimization.
+### Operations & Support
+- Cloud Operations Services
+- DevOps & Deployment
+- Security & IT Services
+- Ongoing Maintenance & Development
 
-### Ongoing Maintenance & Development
-Post-build support, including feature updates, bug fixes, performance improvements, and technical debt reduction.
-
-### Project Scoping
-Detailed project assessment options: Light Scoping, Comprehensive Scoping, and Proof of Concept development.
-
-### UI/UX Design
-Comprehensive user experience and interface design, tailored to target audience needs.
-
-### Architecture & Database Design
-High-level system and database architecture designed for scalability, performance, and security.
-
-### Backend Development
-Core backend development, including API, SDK, integrations, and complex logic implementation.
-
-### DevOps & Deployment
-Automated deployment, CI/CD pipelines, and infrastructure setup on Google Cloud, AWS, or Azure.
-
-### Security & IT Services
-Security assessments, penetration testing, regular security updates, and infrastructure optimization.
-
-### SLAs & Support
-Customizable SLAs for response times, including after-hours support for critical production environments.
+### Professional Services
+- Project Scoping Options
+  - Light Scoping
+  - Comprehensive Scoping
+  - Proof of Concept Development
+- Customizable SLAs & Support
 
 ---
